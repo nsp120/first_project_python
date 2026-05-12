@@ -1,3 +1,3 @@
-name = input( "введите ваше имя :")
-print("Hello " + name)
+name = input( "введите ваше имя : ")
+print(" Hello " + name)
     
